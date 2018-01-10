@@ -9,4 +9,5 @@ body, ul, li, main, nav, a, header, h1
 main{
 	width: 1000px;
 	margin: auto;
+	background-color:grey;
 }
