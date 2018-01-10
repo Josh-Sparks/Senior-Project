@@ -9,4 +9,4 @@ Welcome to AlfaFit! We are a start up looking to bring exercise into the workpla
 
 ---
 _© Copyright AlfaFit 2018._  
-_AlfaFit is a senior product. All rights belong to their proper copyright holders._
+_AlfaFit is a senior project product. All rights belong to their proper copyright holders._
